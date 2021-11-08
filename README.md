@@ -3,7 +3,7 @@
 [Link to deployed app](https://powerful-headland-08472.herokuapp.com/)
 (Click to open app)
 
-GitHub Repo: https://github.com/
+GitHub Repo: https://jpablo73.github.io/budget_trackers/
 
 ## Table of contents
 
